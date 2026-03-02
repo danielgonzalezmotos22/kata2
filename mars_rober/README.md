@@ -1,6 +1,12 @@
 # Introducción
 La agencia espacial te ha encargado el software de navegación del nuevo Rover. En esta fase, el objetivo es establecer la comunicación básica: que el robot entienda dónde está y cómo girar o avanzar.
 
+# Definiciones
+    {
+        "x": "0",
+        "y": "0",
+        "direccion": "N"
+    }
 # Iteracion 1
 ## Entidades Iniciales
 Para esta primera iteración, trabajarás principalmente con dos conceptos:
